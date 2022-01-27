@@ -1,4 +1,6 @@
-# vue-app-demo1
+# taikofan collects music videos or play demonstration from players for songs listed in the taiko no tatsujin (Nintendo Switch Version)
+
+The UI style simulates the original taiko no tatsujin flavour and implemnted based on Element UI
 
 ## Project setup
 ```
@@ -14,11 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
