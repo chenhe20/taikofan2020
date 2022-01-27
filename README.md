@@ -1,6 +1,8 @@
-# taikofan collects music videos or play demonstration from players for songs listed in the taiko no tatsujin (Nintendo Switch Version)
+# taikofan 
 
-The UI style simulates the original taiko no tatsujin flavour and implemnted based on Element UI
+> taikofan collects music videos or play demonstration from players for songs listed in the taiko no tatsujin (Nintendo Switch Version)
+
+*The UI style simulates the original taiko no tatsujin flavour and implemnted based on Element UI*
 
 ## Project setup
 ```
